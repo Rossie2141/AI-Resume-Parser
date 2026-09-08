@@ -43,11 +43,6 @@ Structured JSON
 
 Each section is processed independently, giving the LLM a much more focused task and reducing cross-section contamination.
 
-                 Before       After
-Skills Accuracy    72%         91%
-Experience         78%         94%
-Projects           70%         93%
-Education          88%         97%
 
 ## 🧠 Key Design Decisions
 
